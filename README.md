@@ -1,0 +1,2 @@
+# hsk5to32
+LCN HSK5 TO 32
